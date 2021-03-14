@@ -1,0 +1,71 @@
+
+
+titulo{
+
+	font-size: 60px;
+	font-family: 'Bungee Inline', cursive;
+	color:  #cc0000;
+}
+
+.caro h5 {
+	 font-family: 'Anton', sans-serif;
+	 font-size: 60px;
+}
+
+
+
+.caixa h5{
+	 font-family: 'Anton', sans-serif;
+	  font-size: 35px;
+	  color:  #cc0000;
+
+}
+
+.caixa p{
+	 font-size: 26px;
+
+}
+
+.titu h5{
+font-family: 'Barlow', sans-serif;
+color: #000;
+font-weight: bold;
+font-size: 50px;
+
+}
+
+.titu p{
+	font-size: 25px;
+}
+
+.titu a{
+	font-size: 20px;
+	background-color: #cc0000; 
+}
+
+.navbaixo a{
+	font-family: 'Bungee Inline', cursive;
+	color:  #cc0000;
+
+}
+
+.cad{
+	alingn:center;
+	width: 1000px;
+  	border: 1px solid red;
+ 	margin: 18%;
+ 	padding-top: 50px;
+  	padding-right: 30px;
+  	padding-bottom: 50px;
+  	padding-left: 30px;
+}
+
+.cad button {
+		font-size: 20px;
+	background-color: #cc0000; 
+}
+
+.cad a {
+		font-size: 20px;
+		color: #cc0000; 
+}
